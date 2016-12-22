@@ -1,4 +1,4 @@
- Phone-Book-App
+ # Phone-Book-App
  Display Menu using while loop until 0 is entered to break.
  1 - Add Phone Record: This asks user for name and number and adds it into the phone book.
  2 - Search By Name: This asks user to enter a name. Given the name, the program displays the phone number of the record with that name.
